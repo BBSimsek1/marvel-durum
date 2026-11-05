@@ -1,0 +1,48 @@
+{
+  "proje": "marvel",
+  "guncelleme": "2026-11-05T23:54:48Z",
+  "son_tarama": {
+    "zaman": "2026-11-05T23:54:04Z",
+    "yeni_video": 0,
+    "claude_cagri": 1,
+    "bekleyen": 0,
+    "sonuc": "uyari"
+  },
+  "kullanim": {
+    "tarih": "2026-11-05",
+    "cagri": 5,
+    "gunluk_limit": 100,
+    "calistirma_limiti": 15
+  },
+  "kanallar": [
+    {
+      "ad": "Marvel Entertainment",
+      "id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "liste"
+    },
+    {
+      "ad": "Marvel Rivals",
+      "id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
+    },
+    {
+      "ad": "Insomniac Games",
+      "id": "UCbBuGaZMd6bN1mxW886u1Gg",
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
+    },
+    {
+      "ad": "MARVEL SNAP",
+      "id": "UCgsbO683Z1-_FknDdKmyrMA",
+      "fails": 1,
+      "durum": "uyari",
+      "yontem": "yok"
+    }
+  ],
+  "bildirimler": []
+}
