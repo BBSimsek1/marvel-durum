@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-06T08:33:35Z",
+  "guncelleme": "2026-11-06T19:34:39Z",
   "son_tarama": {
-    "zaman": "2026-11-06T08:33:33Z",
-    "yeni_video": 0,
-    "claude_cagri": 1,
+    "zaman": "2026-11-06T19:34:28Z",
+    "yeni_video": 1,
+    "claude_cagri": 4,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-06",
-    "cagri": 1,
+    "cagri": 5,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -44,5 +44,14 @@
       "yontem": "kanal"
     }
   ],
-  "bildirimler": []
+  "bildirimler": [
+    {
+      "zaman": "2026-11-06T19:34:32Z",
+      "baslik": "Who Have You Lost? | Marvel Television's VisionQuest: Ep 7 | Stream on Disney+",
+      "link": "https://www.youtube.com/watch?v=2FdjsoGEQqg",
+      "kategori": "film",
+      "sebep": "Marvel Television'ın VisionQuest dizisinin 7. bölümüne ait, Marvel evreniyle ilgili resmi bir sinematik tanıtım klibi; oynanış, canlı yayın, yama notu veya sosyal medya klibi değil.",
+      "shorts": false
+    }
+  ]
 }
