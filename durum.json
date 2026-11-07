@@ -1,12 +1,12 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-07T06:17:36Z",
+  "guncelleme": "2026-11-07T11:00:44Z",
   "son_tarama": {
-    "zaman": "2026-11-07T06:16:14Z",
+    "zaman": "2026-11-07T11:00:43Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
-    "sonuc": "uyari"
+    "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-07",
@@ -18,30 +18,30 @@
     {
       "ad": "Marvel Entertainment",
       "id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "fails": 2,
-      "durum": "uyari",
-      "yontem": "yok"
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
     },
     {
       "ad": "Marvel Rivals",
       "id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "fails": 1,
-      "durum": "uyari",
-      "yontem": "yok"
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
     },
     {
       "ad": "Insomniac Games",
       "id": "UCbBuGaZMd6bN1mxW886u1Gg",
-      "fails": 2,
-      "durum": "uyari",
-      "yontem": "yok"
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
     },
     {
       "ad": "MARVEL SNAP",
       "id": "UCgsbO683Z1-_FknDdKmyrMA",
-      "fails": 2,
-      "durum": "uyari",
-      "yontem": "yok"
+      "fails": 0,
+      "durum": "ok",
+      "yontem": "kanal"
     }
   ],
   "bildirimler": [
