@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-08T19:01:01Z",
+  "guncelleme": "2026-11-08T20:00:57Z",
   "son_tarama": {
-    "zaman": "2026-11-08T19:00:58Z",
-    "yeni_video": 0,
+    "zaman": "2026-11-08T20:00:52Z",
+    "yeni_video": 1,
     "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-08",
-    "cagri": 2,
+    "cagri": 3,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-08T20:00:56Z",
+      "baslik": "Marvel Television's VisionQuest: Episode 7 Clip | Stream Now on Disney+",
+      "link": "https://www.youtube.com/watch?v=97ziu_-Q0H4",
+      "kategori": "other",
+      "sebep": "Video, Disney+ dizisi VisionQuest'in 7. bölümünden resmi bir Marvel sahne klibi/fragmanı olup Marvel evrenine ait bir film veya oyun değil, dizi içeriğidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-06T19:34:32Z",
       "baslik": "Who Have You Lost? | Marvel Television's VisionQuest: Ep 7 | Stream on Disney+",
