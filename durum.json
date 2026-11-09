@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-08T23:01:00Z",
+  "guncelleme": "2026-11-09T00:01:29Z",
   "son_tarama": {
-    "zaman": "2026-11-08T23:00:59Z",
+    "zaman": "2026-11-09T00:00:58Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
-    "sonuc": "ok"
+    "sonuc": "uyari"
   },
   "kullanim": {
-    "tarih": "2026-11-08",
-    "cagri": 3,
+    "tarih": "2026-11-09",
+    "cagri": 0,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -25,9 +25,9 @@
     {
       "ad": "Marvel Rivals",
       "id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
-      "fails": 0,
-      "durum": "ok",
-      "yontem": "kanal"
+      "fails": 1,
+      "durum": "uyari",
+      "yontem": "yok"
     },
     {
       "ad": "Insomniac Games",
