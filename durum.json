@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-10T16:01:01Z",
+  "guncelleme": "2026-11-10T17:01:08Z",
   "son_tarama": {
-    "zaman": "2026-11-10T16:01:01Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-10T17:00:58Z",
+    "yeni_video": 2,
+    "claude_cagri": 3,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-10",
-    "cagri": 0,
+    "cagri": 3,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-10T17:01:08Z",
+      "baslik": "Doomsday | Marvel Rivals Season 11 Trailer | Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=EcKAQ4UNZlI",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Season 11 'Doomsday' sinematik fragmanı olup oynanış kaydı, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
+      "shorts": false
+    },
+    {
+      "zaman": "2026-11-10T17:01:05Z",
+      "baslik": "Doomsday | Marvel Rivals Season 11 Trailer | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/QwcrwZigU2g",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Season 11 için hazırlanmış sinematik bir fragmanı olup oynanış kaydı, canlı yayın veya yama notu tanıtımı değildir.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-08T20:00:56Z",
       "baslik": "Marvel Television's VisionQuest: Episode 7 Clip | Stream Now on Disney+",
