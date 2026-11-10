@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-10T02:19:44Z",
+  "guncelleme": "2026-11-10T03:02:26Z",
   "son_tarama": {
-    "zaman": "2026-11-10T02:18:34Z",
+    "zaman": "2026-11-10T03:01:02Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
@@ -34,7 +34,7 @@
       "id": "UCbBuGaZMd6bN1mxW886u1Gg",
       "fails": 0,
       "durum": "ok",
-      "yontem": "kanal"
+      "yontem": "api"
     },
     {
       "ad": "MARVEL SNAP",
