@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-10T17:01:08Z",
+  "guncelleme": "2026-11-10T17:59:18Z",
   "son_tarama": {
-    "zaman": "2026-11-10T17:00:58Z",
+    "zaman": "2026-11-10T17:59:13Z",
     "yeni_video": 2,
-    "claude_cagri": 3,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-10",
-    "cagri": 3,
+    "cagri": 5,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-10T17:59:17Z",
+      "baslik": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/bZWcSdIWh10",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Nightcrawler karakterini tanıtan resmi bir karakter fragmanı olduğu için Marvel oyunu fragmanı kategorisine giriyor.",
+      "shorts": true
+    },
+    {
+      "zaman": "2026-11-10T17:59:15Z",
+      "baslik": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=YJ9Ndcv-ZFE",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyunu için Nightcrawler karakterini tanıtan resmi bir karakter fragmanıdır.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-10T17:01:08Z",
       "baslik": "Doomsday | Marvel Rivals Season 11 Trailer | Marvel Rivals",
