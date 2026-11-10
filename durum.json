@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-09T23:01:01Z",
+  "guncelleme": "2026-11-10T00:01:43Z",
   "son_tarama": {
-    "zaman": "2026-11-09T23:01:00Z",
+    "zaman": "2026-11-10T00:00:55Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
-    "tarih": "2026-11-09",
-    "cagri": 2,
+    "tarih": "2026-11-10",
+    "cagri": 0,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -27,7 +27,7 @@
       "id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
       "fails": 0,
       "durum": "ok",
-      "yontem": "kanal"
+      "yontem": "api"
     },
     {
       "ad": "Insomniac Games",
@@ -41,7 +41,7 @@
       "id": "UCgsbO683Z1-_FknDdKmyrMA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "kanal"
+      "yontem": "api"
     }
   ],
   "bildirimler": [
