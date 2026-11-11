@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-11T17:01:06Z",
+  "guncelleme": "2026-11-11T18:01:02Z",
   "son_tarama": {
-    "zaman": "2026-11-11T17:00:57Z",
-    "yeni_video": 3,
-    "claude_cagri": 3,
+    "zaman": "2026-11-11T18:00:57Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-11",
-    "cagri": 6,
+    "cagri": 7,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-11T18:01:02Z",
+      "baslik": "The Ice Queen Takes the Throne! | New Emma Frost Costume Reveal | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/Ok8NGsAaRgo",
+      "kategori": "game",
+      "sebep": "Resmi Marvel Rivals kanalında yayımlanan, Emma Frost'un yeni kostümünü sinematik bir tanıtımla duyuran oyun fragmanı niteliğinde bir video.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-11T17:01:06Z",
       "baslik": "Season 11 Battle Pass: The Incursion | Official Trailer | Marvel Rivals",
