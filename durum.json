@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-11T18:01:02Z",
+  "guncelleme": "2026-11-11T19:01:01Z",
   "son_tarama": {
-    "zaman": "2026-11-11T18:00:57Z",
+    "zaman": "2026-11-11T19:00:55Z",
     "yeni_video": 1,
     "claude_cagri": 1,
     "bekleyen": 0,
@@ -10,7 +10,7 @@
   },
   "kullanim": {
     "tarih": "2026-11-11",
-    "cagri": 7,
+    "cagri": 8,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-11T19:01:00Z",
+      "baslik": "Nurture your enemies to their doom. | New Mantis Costume Reveal | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/Qyk5EqT4xBA",
+      "kategori": "game",
+      "sebep": "Marvel Rivals resmi kanalında yayınlanan, oyundaki yeni Mantis kostümünü tanıtan ve anlatımlı tagline içeren bir oyun tanıtım sinematiği gibi görünüyor.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-11T18:01:02Z",
       "baslik": "The Ice Queen Takes the Throne! | New Emma Frost Costume Reveal | #MarvelRivals",
