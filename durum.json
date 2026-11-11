@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-11T19:01:01Z",
+  "guncelleme": "2026-11-11T20:01:00Z",
   "son_tarama": {
-    "zaman": "2026-11-11T19:00:55Z",
+    "zaman": "2026-11-11T20:00:56Z",
     "yeni_video": 1,
     "claude_cagri": 1,
     "bekleyen": 0,
@@ -10,7 +10,7 @@
   },
   "kullanim": {
     "tarih": "2026-11-11",
-    "cagri": 8,
+    "cagri": 9,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-11T20:00:59Z",
+      "baslik": "We've Said Goodbye Before... | Stream All Episodes of VisionQuest Now On Disney+",
+      "link": "https://www.youtube.com/watch?v=-mF4disa1jM",
+      "kategori": "film",
+      "sebep": "Video, Disney+'ta yayınlanan Marvel dizisi VisionQuest'in tanıtım fragmanı niteliğinde bir sinematik olup oyun veya sıradan içerik değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-11T19:01:00Z",
       "baslik": "Nurture your enemies to their doom. | New Mantis Costume Reveal | #MarvelRivals",
