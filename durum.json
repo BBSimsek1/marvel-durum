@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-11T16:00:58Z",
+  "guncelleme": "2026-11-11T17:01:06Z",
   "son_tarama": {
-    "zaman": "2026-11-11T16:00:58Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-11T17:00:57Z",
+    "yeni_video": 3,
+    "claude_cagri": 3,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-11",
-    "cagri": 3,
+    "cagri": 6,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,30 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-11T17:01:06Z",
+      "baslik": "Season 11 Battle Pass: The Incursion | Official Trailer | Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=7DWYInscwbU",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Season 11 Battle Pass'ini tanıtan resmi bir oyun fragmanı olup Marvel evreniyle ilgili sinematik bir içerik taşıyor.",
+      "shorts": false
+    },
+    {
+      "zaman": "2026-11-11T17:01:04Z",
+      "baslik": "Season 11 Battle Pass: The Incursion | Official Trailer | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/pNJ7sZWACvo",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Season 11 Battle Pass'ini tanıtan resmi bir oyun fragmanı olduğu için Marvel oyunu fragmanı kapsamındadır.",
+      "shorts": true
+    },
+    {
+      "zaman": "2026-11-11T17:01:02Z",
+      "baslik": "Stream All Episodes of Marvel Television's VisionQuest Now On Disney+",
+      "link": "https://www.youtube.com/watch?v=3vjIaDyAxsQ",
+      "kategori": "other",
+      "sebep": "Video, Disney+'ta yayınlanan Marvel Television dizisi VisionQuest'in tanıtım klibi niteliğinde olup bir dizi fragmanı olarak değerlendirilebilir, ancak film veya oyun değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-10T17:59:17Z",
       "baslik": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | #MarvelRivals",
