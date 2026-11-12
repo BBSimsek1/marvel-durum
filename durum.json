@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-12T02:02:14Z",
+  "guncelleme": "2026-11-12T03:02:18Z",
   "son_tarama": {
-    "zaman": "2026-11-12T02:00:55Z",
+    "zaman": "2026-11-12T03:00:54Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
@@ -20,7 +20,7 @@
       "id": "UCvC4D8onUfXzvjTOM-dBfEA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "liste"
+      "yontem": "api"
     },
     {
       "ad": "Marvel Rivals",
