@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-12T12:01:08Z",
+  "guncelleme": "2026-11-12T12:58:50Z",
   "son_tarama": {
-    "zaman": "2026-11-12T12:01:07Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-12T12:58:46Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-12",
-    "cagri": 1,
+    "cagri": 2,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-12T12:58:50Z",
+      "baslik": "Countdown to Avengers: Doomsday | Return to the Universe on Disney+",
+      "link": "https://www.youtube.com/watch?v=7n3etujuU3c",
+      "kategori": "film",
+      "sebep": "Video, Avengers: Doomsday filmi ve Marvel film serisini tanıtan resmi bir fragman niteliğinde bir promosyon klibidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-11T20:00:59Z",
       "baslik": "We've Said Goodbye Before... | Stream All Episodes of VisionQuest Now On Disney+",
