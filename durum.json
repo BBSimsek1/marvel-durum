@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-12T17:01:04Z",
+  "guncelleme": "2026-11-12T18:01:05Z",
   "son_tarama": {
-    "zaman": "2026-11-12T17:00:59Z",
-    "yeni_video": 0,
+    "zaman": "2026-11-12T18:00:59Z",
+    "yeni_video": 1,
     "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-12",
-    "cagri": 4,
+    "cagri": 5,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-12T18:01:03Z",
+      "baslik": "I Lost Wanda | Stream All Episodes of Marvel Television's VisionQuest Now On Disney+",
+      "link": "https://www.youtube.com/watch?v=MG48pedG2zc",
+      "kategori": "film",
+      "sebep": "Video, Disney+'ta yayınlanan Marvel Television dizisi VisionQuest'in tanıtım fragmanı niteliğinde bir sinematik kliptir ve oynanış, canlı yayın veya yama notu içermez.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-12T16:01:15Z",
       "baslik": "Billy Maximoff and Agatha Harkness Find Tommy | Agatha All Along | Official Clip",
