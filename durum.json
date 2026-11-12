@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-12T15:01:00Z",
+  "guncelleme": "2026-11-12T16:01:15Z",
   "son_tarama": {
-    "zaman": "2026-11-12T15:01:00Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-12T16:01:13Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-12",
-    "cagri": 2,
+    "cagri": 3,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-12T16:01:15Z",
+      "baslik": "Billy Maximoff and Agatha Harkness Find Tommy | Agatha All Along | Official Clip",
+      "link": "https://www.youtube.com/watch?v=k7cJYRabjMQ",
+      "kategori": "film",
+      "sebep": "Video, Marvel Television'ın Disney+ dizisi Agatha All Along'un resmi sahne kliplerinden biri olup Marvel evreniyle ilgili bir dizi sinematiğidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-12T12:58:50Z",
       "baslik": "Countdown to Avengers: Doomsday | Return to the Universe on Disney+",
