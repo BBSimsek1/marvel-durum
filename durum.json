@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-13T16:01:17Z",
+  "guncelleme": "2026-11-13T17:01:30Z",
   "son_tarama": {
-    "zaman": "2026-11-13T16:01:00Z",
-    "yeni_video": 0,
-    "claude_cagri": 1,
+    "zaman": "2026-11-13T17:01:07Z",
+    "yeni_video": 1,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "uyari"
   },
   "kullanim": {
     "tarih": "2026-11-13",
-    "cagri": 1,
+    "cagri": 3,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-13T17:01:13Z",
+      "baslik": "Marvel Rivals Season 11 Trailer | Doomsday | Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=ZiMUF51KxIM",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Season 11 sezon fragmanı/sinematiğidir ve oynanış kaydı, yama notu tanıtımı veya sosyal medya klibi değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-12T18:01:03Z",
       "baslik": "I Lost Wanda | Stream All Episodes of Marvel Television's VisionQuest Now On Disney+",
