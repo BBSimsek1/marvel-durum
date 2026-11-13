@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-13T19:01:03Z",
+  "guncelleme": "2026-11-13T20:01:04Z",
   "son_tarama": {
-    "zaman": "2026-11-13T19:00:58Z",
+    "zaman": "2026-11-13T20:00:57Z",
     "yeni_video": 1,
-    "claude_cagri": 1,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-13",
-    "cagri": 5,
+    "cagri": 7,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-13T20:01:01Z",
+      "baslik": "Like Mother Like Sons | Stream All Episodes of VisionQuest on Disney+",
+      "link": "https://www.youtube.com/watch?v=1UE2Oh_IwHs",
+      "kategori": "film",
+      "sebep": "Video, Marvel Television'ın Disney+ dizisi VisionQuest'in tanıtım klibi niteliğinde bir MCU sinematiği olup oynanış, canlı yayın, yama notu ya da kısa sosyal medya klibi değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-13T19:01:02Z",
       "baslik": "Countdown to Avengers: Doomsday | Every Moment on Disney+",
