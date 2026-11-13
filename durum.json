@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-13T07:02:20Z",
+  "guncelleme": "2026-11-13T08:00:57Z",
   "son_tarama": {
-    "zaman": "2026-11-13T07:00:56Z",
+    "zaman": "2026-11-13T08:00:56Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
@@ -20,28 +20,28 @@
       "id": "UCvC4D8onUfXzvjTOM-dBfEA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "api"
+      "yontem": "kanal"
     },
     {
       "ad": "Marvel Rivals",
       "id": "UCWzmOSSiSPbVnVu3ZAyDx2w",
       "fails": 0,
       "durum": "ok",
-      "yontem": "api"
+      "yontem": "kanal"
     },
     {
       "ad": "Insomniac Games",
       "id": "UCbBuGaZMd6bN1mxW886u1Gg",
       "fails": 0,
       "durum": "ok",
-      "yontem": "api"
+      "yontem": "kanal"
     },
     {
       "ad": "MARVEL SNAP",
       "id": "UCgsbO683Z1-_FknDdKmyrMA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "api"
+      "yontem": "kanal"
     }
   ],
   "bildirimler": [
