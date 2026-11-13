@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-13T18:01:01Z",
+  "guncelleme": "2026-11-13T19:01:03Z",
   "son_tarama": {
-    "zaman": "2026-11-13T18:00:58Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-13T19:00:58Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-13",
-    "cagri": 4,
+    "cagri": 5,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-13T19:01:02Z",
+      "baslik": "Countdown to Avengers: Doomsday | Every Moment on Disney+",
+      "link": "https://www.youtube.com/watch?v=Kl7nG1nD0mk",
+      "kategori": "film",
+      "sebep": "Video, Avengers: Doomsday filminin tanıtımına yönelik, Disney+ Countdown to Doomsday koleksiyonundaki Marvel film ve dizi sahnelerinden oluşan bir fragman/tanıtım derlemesidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-13T17:01:13Z",
       "baslik": "Marvel Rivals Season 11 Trailer | Doomsday | Marvel Rivals",
