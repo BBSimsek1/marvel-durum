@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-13T23:45:25Z",
+  "guncelleme": "2026-11-14T00:02:09Z",
   "son_tarama": {
-    "zaman": "2026-11-13T23:44:10Z",
+    "zaman": "2026-11-14T00:00:56Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
-    "tarih": "2026-11-13",
-    "cagri": 8,
+    "tarih": "2026-11-14",
+    "cagri": 0,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -34,14 +34,14 @@
       "id": "UCbBuGaZMd6bN1mxW886u1Gg",
       "fails": 0,
       "durum": "ok",
-      "yontem": "api"
+      "yontem": "kanal"
     },
     {
       "ad": "MARVEL SNAP",
       "id": "UCgsbO683Z1-_FknDdKmyrMA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "kanal"
+      "yontem": "api"
     }
   ],
   "bildirimler": [
