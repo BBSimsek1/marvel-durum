@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-15T17:01:11Z",
+  "guncelleme": "2026-11-15T17:52:39Z",
   "son_tarama": {
-    "zaman": "2026-11-15T17:01:08Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-15T17:52:36Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-15",
-    "cagri": 0,
+    "cagri": 1,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-15T17:52:39Z",
+      "baslik": "Marvel Television's VisionQuest: Episode 8 Clip | Stream Now on Disney+",
+      "link": "https://www.youtube.com/watch?v=v4hcVRzht18",
+      "kategori": "film",
+      "sebep": "Video, Marvel Television'ın Disney+ dizisi VisionQuest'in 8. bölümünden bir sinematik kliptir; oynanış, canlı yayın, yama notu veya sosyal medya klibi değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-13T20:01:01Z",
       "baslik": "Like Mother Like Sons | Stream All Episodes of VisionQuest on Disney+",
