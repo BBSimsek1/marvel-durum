@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-17T15:01:02Z",
+  "guncelleme": "2026-11-17T16:01:09Z",
   "son_tarama": {
-    "zaman": "2026-11-17T15:01:02Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-17T16:01:05Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-17",
-    "cagri": 0,
+    "cagri": 1,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-17T16:01:09Z",
+      "baslik": "Marvel Cosmic Invasion | The Siege of Castle Doom DLC #2 Launch Trailer",
+      "link": "https://www.youtube.com/watch?v=UOSuiilBPlk",
+      "kategori": "game",
+      "sebep": "Video, Marvel Cosmic Invasion oyununun The Siege of Castle Doom DLC'sinin lansman fragmanı olup bir Marvel oyunu tanıtım videosudur.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-16T18:01:00Z",
       "baslik": "Ant-Man VS Yellowjacket 🚂",
@@ -195,14 +203,6 @@
       "link": "https://www.youtube.com/watch?v=97ziu_-Q0H4",
       "kategori": "other",
       "sebep": "Video, Disney+ dizisi VisionQuest'in 7. bölümünden resmi bir Marvel sahne klibi/fragmanı olup Marvel evrenine ait bir film veya oyun değil, dizi içeriğidir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-06T19:34:32Z",
-      "baslik": "Who Have You Lost? | Marvel Television's VisionQuest: Ep 7 | Stream on Disney+",
-      "link": "https://www.youtube.com/watch?v=2FdjsoGEQqg",
-      "kategori": "film",
-      "sebep": "Marvel Television'ın VisionQuest dizisinin 7. bölümüne ait, Marvel evreniyle ilgili resmi bir sinematik tanıtım klibi; oynanış, canlı yayın, yama notu veya sosyal medya klibi değil.",
       "shorts": false
     }
   ]
