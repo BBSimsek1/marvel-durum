@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-17T18:01:07Z",
+  "guncelleme": "2026-11-17T19:01:07Z",
   "son_tarama": {
-    "zaman": "2026-11-17T18:01:00Z",
-    "yeni_video": 0,
+    "zaman": "2026-11-17T19:01:02Z",
+    "yeni_video": 2,
     "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-17",
-    "cagri": 4,
+    "cagri": 6,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-17T19:01:07Z",
+      "baslik": "2nd Anniversary Celebration Trailer | Two Years of Rivals |  #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/0zX6cL6GBVc",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun ikinci yıl dönümü için hazırlanmış bir oyun fragmanı/sinematiğidir ve sıradan oynanış, canlı yayın, yama notu veya kısa klip değildir.",
+      "shorts": true
+    },
+    {
+      "zaman": "2026-11-17T19:01:05Z",
+      "baslik": "2nd Anniversary Celebration Trailer | Two Years of Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=dXHSPs5bblQ",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun 2. yıl dönümü etkinliğini tanıtan bir oyun fragmanıdır; oynanış kaydı, canlı yayın, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-17T16:01:09Z",
       "baslik": "Marvel Cosmic Invasion | The Siege of Castle Doom DLC #2 Launch Trailer",
@@ -187,22 +203,6 @@
       "link": "https://www.youtube.com/watch?v=EcKAQ4UNZlI",
       "kategori": "game",
       "sebep": "Video, Marvel Rivals oyununun Season 11 'Doomsday' sinematik fragmanı olup oynanış kaydı, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-10T17:01:05Z",
-      "baslik": "Doomsday | Marvel Rivals Season 11 Trailer | #MarvelRivals",
-      "link": "https://www.youtube.com/shorts/QwcrwZigU2g",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun Season 11 için hazırlanmış sinematik bir fragmanı olup oynanış kaydı, canlı yayın veya yama notu tanıtımı değildir.",
-      "shorts": true
-    },
-    {
-      "zaman": "2026-11-08T20:00:56Z",
-      "baslik": "Marvel Television's VisionQuest: Episode 7 Clip | Stream Now on Disney+",
-      "link": "https://www.youtube.com/watch?v=97ziu_-Q0H4",
-      "kategori": "other",
-      "sebep": "Video, Disney+ dizisi VisionQuest'in 7. bölümünden resmi bir Marvel sahne klibi/fragmanı olup Marvel evrenine ait bir film veya oyun değil, dizi içeriğidir.",
       "shorts": false
     }
   ]
