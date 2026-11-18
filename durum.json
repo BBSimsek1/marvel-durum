@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-18T17:01:08Z",
+  "guncelleme": "2026-11-18T18:01:07Z",
   "son_tarama": {
-    "zaman": "2026-11-18T17:01:03Z",
-    "yeni_video": 0,
-    "claude_cagri": 1,
+    "zaman": "2026-11-18T18:01:03Z",
+    "yeni_video": 2,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-18",
-    "cagri": 2,
+    "cagri": 4,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-18T18:01:07Z",
+      "baslik": "Avengers: Doomsday | The Return | In Theaters December 18",
+      "link": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
+      "kategori": "film",
+      "sebep": "Başlık, açıklama ve kanal bilgileri, Avengers: Doomsday filminin 18 Aralık'ta vizyona gireceğini duyuran bir film fragmanı olduğunu gösteriyor.",
+      "shorts": false
+    },
+    {
+      "zaman": "2026-11-18T18:01:05Z",
+      "baslik": "Avengers: Doomsday | The Return | In UK Cinemas December 16",
+      "link": "https://www.youtube.com/watch?v=nHVnS9eAyT4",
+      "kategori": "film",
+      "sebep": "Video, Marvel evreninden Avengers: Doomsday filminin resmi fragmanı/tanıtım sinematiğidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-17T19:01:07Z",
       "baslik": "2nd Anniversary Celebration Trailer | Two Years of Rivals |  #MarvelRivals",
@@ -188,22 +204,6 @@
       "kategori": "game",
       "sebep": "Video, Marvel Rivals oyununun Nightcrawler karakterini tanıtan resmi bir karakter fragmanı olduğu için Marvel oyunu fragmanı kategorisine giriyor.",
       "shorts": true
-    },
-    {
-      "zaman": "2026-11-10T17:59:15Z",
-      "baslik": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | Marvel Rivals",
-      "link": "https://www.youtube.com/watch?v=YJ9Ndcv-ZFE",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyunu için Nightcrawler karakterini tanıtan resmi bir karakter fragmanıdır.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-10T17:01:08Z",
-      "baslik": "Doomsday | Marvel Rivals Season 11 Trailer | Marvel Rivals",
-      "link": "https://www.youtube.com/watch?v=EcKAQ4UNZlI",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun Season 11 'Doomsday' sinematik fragmanı olup oynanış kaydı, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
-      "shorts": false
     }
   ]
 }
