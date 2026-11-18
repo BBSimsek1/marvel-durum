@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-18T19:01:01Z",
+  "guncelleme": "2026-11-18T20:01:03Z",
   "son_tarama": {
-    "zaman": "2026-11-18T19:01:01Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-18T20:00:59Z",
+    "yeni_video": 2,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-18",
-    "cagri": 4,
+    "cagri": 6,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-18T20:01:03Z",
+      "baslik": "Ant-Man VS Yellowjacket - Toy Train Fight | Ant-Man | Official Clip",
+      "link": "https://www.youtube.com/watch?v=PtYHtRfqRJE",
+      "kategori": "film",
+      "sebep": "Marvel Entertainment kanalında yayımlanan, Ant-Man filminden resmi bir sahne klibidir ve Marvel evreniyle doğrudan ilgilidir.",
+      "shorts": false
+    },
+    {
+      "zaman": "2026-11-18T20:01:01Z",
+      "baslik": "In one month, return together for Avengers: Doomsday.",
+      "link": "https://www.youtube.com/shorts/m5UXf0zQn5A",
+      "kategori": "film",
+      "sebep": "Video, Marvel evreniyle ilgili Avengers: Doomsday filminin tanıtım kliplerinden biri olup 18 Aralık'ta vizyona girecek filmi duyurmaktadır.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-18T18:01:07Z",
       "baslik": "Avengers: Doomsday | The Return | In Theaters December 18",
@@ -187,22 +203,6 @@
       "link": "https://www.youtube.com/shorts/pNJ7sZWACvo",
       "kategori": "game",
       "sebep": "Video, Marvel Rivals oyununun Season 11 Battle Pass'ini tanıtan resmi bir oyun fragmanı olduğu için Marvel oyunu fragmanı kapsamındadır.",
-      "shorts": true
-    },
-    {
-      "zaman": "2026-11-11T17:01:02Z",
-      "baslik": "Stream All Episodes of Marvel Television's VisionQuest Now On Disney+",
-      "link": "https://www.youtube.com/watch?v=3vjIaDyAxsQ",
-      "kategori": "other",
-      "sebep": "Video, Disney+'ta yayınlanan Marvel Television dizisi VisionQuest'in tanıtım klibi niteliğinde olup bir dizi fragmanı olarak değerlendirilebilir, ancak film veya oyun değildir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-10T17:59:17Z",
-      "baslik": "Nightcrawler: Hope and Brimstone | Character Reveal Trailer | #MarvelRivals",
-      "link": "https://www.youtube.com/shorts/bZWcSdIWh10",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun Nightcrawler karakterini tanıtan resmi bir karakter fragmanı olduğu için Marvel oyunu fragmanı kategorisine giriyor.",
       "shorts": true
     }
   ]
