@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-20T17:01:02Z",
+  "guncelleme": "2026-11-20T18:01:07Z",
   "son_tarama": {
-    "zaman": "2026-11-20T17:01:02Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-20T18:01:05Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-20",
-    "cagri": 1,
+    "cagri": 2,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-20T18:01:07Z",
+      "baslik": "\"I got... homework.\"",
+      "link": "https://www.youtube.com/shorts/3gCJ-JlU2W4",
+      "kategori": "film",
+      "sebep": "Video, Captain America: Civil War filminden Tony Stark ile Peter Parker arasındaki bir sahneyi içeren resmi Marvel film kliplerinden biri.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-20T16:01:04Z",
       "baslik": "Human Torch Learns Silver Surfer's Backstory | The Fantastic Four: First Steps | Official Clip",
@@ -195,14 +203,6 @@
       "link": "https://www.youtube.com/shorts/Qyk5EqT4xBA",
       "kategori": "game",
       "sebep": "Marvel Rivals resmi kanalında yayınlanan, oyundaki yeni Mantis kostümünü tanıtan ve anlatımlı tagline içeren bir oyun tanıtım sinematiği gibi görünüyor.",
-      "shorts": true
-    },
-    {
-      "zaman": "2026-11-11T18:01:02Z",
-      "baslik": "The Ice Queen Takes the Throne! | New Emma Frost Costume Reveal | #MarvelRivals",
-      "link": "https://www.youtube.com/shorts/Ok8NGsAaRgo",
-      "kategori": "game",
-      "sebep": "Resmi Marvel Rivals kanalında yayımlanan, Emma Frost'un yeni kostümünü sinematik bir tanıtımla duyuran oyun fragmanı niteliğinde bir video.",
       "shorts": true
     }
   ]
