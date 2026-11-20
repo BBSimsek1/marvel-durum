@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-20T15:01:06Z",
+  "guncelleme": "2026-11-20T16:01:04Z",
   "son_tarama": {
-    "zaman": "2026-11-20T15:01:05Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-20T16:01:02Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-20",
-    "cagri": 0,
+    "cagri": 1,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-20T16:01:04Z",
+      "baslik": "Human Torch Learns Silver Surfer's Backstory | The Fantastic Four: First Steps | Official Clip",
+      "link": "https://www.youtube.com/watch?v=nAtnCBE5XyE",
+      "kategori": "film",
+      "sebep": "Video, Marvel Studios'un The Fantastic Four: First Steps filminden resmi bir sinematik klip olup Marvel evreniyle doğrudan ilgilidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-19T18:01:02Z",
       "baslik": "Jean Grey Becomes the Phoenix 🔥",
@@ -196,14 +204,6 @@
       "kategori": "game",
       "sebep": "Resmi Marvel Rivals kanalında yayımlanan, Emma Frost'un yeni kostümünü sinematik bir tanıtımla duyuran oyun fragmanı niteliğinde bir video.",
       "shorts": true
-    },
-    {
-      "zaman": "2026-11-11T17:01:06Z",
-      "baslik": "Season 11 Battle Pass: The Incursion | Official Trailer | Marvel Rivals",
-      "link": "https://www.youtube.com/watch?v=7DWYInscwbU",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun Season 11 Battle Pass'ini tanıtan resmi bir oyun fragmanı olup Marvel evreniyle ilgili sinematik bir içerik taşıyor.",
-      "shorts": false
     }
   ]
 }
