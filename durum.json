@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-23T18:01:06Z",
+  "guncelleme": "2026-11-23T19:01:00Z",
   "son_tarama": {
-    "zaman": "2026-11-23T18:00:58Z",
-    "yeni_video": 0,
-    "claude_cagri": 3,
+    "zaman": "2026-11-23T19:00:57Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-23",
-    "cagri": 5,
+    "cagri": 6,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-23T19:01:00Z",
+      "baslik": "Rewrite the rules of every fight! | New Scarlet Witch Costume Reveal | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/EkEp8uJWwgw",
+      "kategori": "game",
+      "sebep": "Marvel Rivals oyununun yeni Scarlet Witch kostümünü tanıtan, sinematik bir oyun fragmanı niteliğinde bir video.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-23T15:00:08Z",
       "baslik": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
@@ -195,14 +203,6 @@
       "link": "https://www.youtube.com/watch?v=k7cJYRabjMQ",
       "kategori": "film",
       "sebep": "Video, Marvel Television'ın Disney+ dizisi Agatha All Along'un resmi sahne kliplerinden biri olup Marvel evreniyle ilgili bir dizi sinematiğidir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-12T12:58:50Z",
-      "baslik": "Countdown to Avengers: Doomsday | Return to the Universe on Disney+",
-      "link": "https://www.youtube.com/watch?v=7n3etujuU3c",
-      "kategori": "film",
-      "sebep": "Video, Avengers: Doomsday filmi ve Marvel film serisini tanıtan resmi bir fragman niteliğinde bir promosyon klibidir.",
       "shorts": false
     }
   ]
