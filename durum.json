@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-23T14:00:54Z",
+  "guncelleme": "2026-11-23T15:00:09Z",
   "son_tarama": {
-    "zaman": "2026-11-23T14:00:53Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-23T15:00:05Z",
+    "yeni_video": 2,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-23",
-    "cagri": 0,
+    "cagri": 2,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-23T15:00:08Z",
+      "baslik": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
+      "link": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
+      "kategori": "film",
+      "sebep": "Video, Marvel evrenindeki Avengers: Doomsday filminin resmi final fragmanıdır.",
+      "shorts": false
+    },
+    {
+      "zaman": "2026-11-23T15:00:07Z",
+      "baslik": "Avengers: Doomsday | Final Trailer | In UK Cinemas December 16",
+      "link": "https://www.youtube.com/watch?v=hGaXQ8L_Z28",
+      "kategori": "film",
+      "sebep": "Video, Marvel evrenindeki Avengers: Doomsday filminin final fragmanıdır ve Marvel evreniyle doğrudan ilgilidir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-20T18:01:07Z",
       "baslik": "\"I got... homework.\"",
@@ -188,22 +204,6 @@
       "kategori": "film",
       "sebep": "Video, Avengers: Doomsday filmi ve Marvel film serisini tanıtan resmi bir fragman niteliğinde bir promosyon klibidir.",
       "shorts": false
-    },
-    {
-      "zaman": "2026-11-11T20:00:59Z",
-      "baslik": "We've Said Goodbye Before... | Stream All Episodes of VisionQuest Now On Disney+",
-      "link": "https://www.youtube.com/watch?v=-mF4disa1jM",
-      "kategori": "film",
-      "sebep": "Video, Disney+'ta yayınlanan Marvel dizisi VisionQuest'in tanıtım fragmanı niteliğinde bir sinematik olup oyun veya sıradan içerik değildir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-11T19:01:00Z",
-      "baslik": "Nurture your enemies to their doom. | New Mantis Costume Reveal | #MarvelRivals",
-      "link": "https://www.youtube.com/shorts/Qyk5EqT4xBA",
-      "kategori": "game",
-      "sebep": "Marvel Rivals resmi kanalında yayınlanan, oyundaki yeni Mantis kostümünü tanıtan ve anlatımlı tagline içeren bir oyun tanıtım sinematiği gibi görünüyor.",
-      "shorts": true
     }
   ]
 }
