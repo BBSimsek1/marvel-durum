@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-23T22:00:57Z",
+  "guncelleme": "2026-11-23T23:01:05Z",
   "son_tarama": {
-    "zaman": "2026-11-23T22:00:53Z",
-    "yeni_video": 2,
-    "claude_cagri": 2,
+    "zaman": "2026-11-23T23:01:03Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-23",
-    "cagri": 9,
+    "cagri": 10,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-23T23:01:05Z",
+      "baslik": "To me, my X-Men.",
+      "link": "https://www.youtube.com/shorts/UKAq31cLPfk",
+      "kategori": "film",
+      "sebep": "Video, Marvel'ın resmi kanalında yayınlanan Avengers: Doomsday filminin final fragmanıdır.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-23T22:00:56Z",
       "baslik": "“Put aside your petty squabbles.”",
@@ -195,14 +203,6 @@
       "link": "https://www.youtube.com/watch?v=Kl7nG1nD0mk",
       "kategori": "film",
       "sebep": "Video, Avengers: Doomsday filminin tanıtımına yönelik, Disney+ Countdown to Doomsday koleksiyonundaki Marvel film ve dizi sahnelerinden oluşan bir fragman/tanıtım derlemesidir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-13T17:01:13Z",
-      "baslik": "Marvel Rivals Season 11 Trailer | Doomsday | Marvel Rivals",
-      "link": "https://www.youtube.com/watch?v=ZiMUF51KxIM",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun Season 11 sezon fragmanı/sinematiğidir ve oynanış kaydı, yama notu tanıtımı veya sosyal medya klibi değildir.",
       "shorts": false
     }
   ]
