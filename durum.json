@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-24T18:01:01Z",
+  "guncelleme": "2026-11-24T19:01:01Z",
   "son_tarama": {
-    "zaman": "2026-11-24T18:00:56Z",
+    "zaman": "2026-11-24T19:00:54Z",
     "yeni_video": 2,
     "claude_cagri": 2,
     "bekleyen": 0,
@@ -10,7 +10,7 @@
   },
   "kullanim": {
     "tarih": "2026-11-24",
-    "cagri": 9,
+    "cagri": 11,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-24T19:01:01Z",
+      "baslik": "A New Kind of Fun Is Opening in Times Square | Ghostworks Arcade Reveal | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/c4q3aIrV2RA",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyunundaki Ghostworks Arcade mekânının tanıtım fragmanı niteliğinde bir reveal videosu gibi görünüyor, ancak açıklama boş olduğu için kesin bir değerlendirme yapılamıyor.",
+      "shorts": true
+    },
+    {
+      "zaman": "2026-11-24T19:00:57Z",
+      "baslik": "A New Kind of Fun Is Opening in Times Square | Ghostworks Arcade Reveal | Marvel Rivals",
+      "link": "https://www.youtube.com/watch?v=8VK6tmpKer4",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununa eklenen Ghostworks Arcade alanının sinematik tanıtım fragmanıdır; düz bir oynanış, canlı yayın veya yama notu videosu değildir.",
+      "shorts": false
+    },
     {
       "zaman": "2026-11-24T18:01:01Z",
       "baslik": "Put your best plans to work and claim every prize! | Van Dyne: Idea Matrix Trailer | #MarvelRivals",
@@ -187,22 +203,6 @@
       "link": "https://www.youtube.com/watch?v=nHVnS9eAyT4",
       "kategori": "film",
       "sebep": "Video, Marvel evreninden Avengers: Doomsday filminin resmi fragmanı/tanıtım sinematiğidir.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-17T19:01:07Z",
-      "baslik": "2nd Anniversary Celebration Trailer | Two Years of Rivals |  #MarvelRivals",
-      "link": "https://www.youtube.com/shorts/0zX6cL6GBVc",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun ikinci yıl dönümü için hazırlanmış bir oyun fragmanı/sinematiğidir ve sıradan oynanış, canlı yayın, yama notu veya kısa klip değildir.",
-      "shorts": true
-    },
-    {
-      "zaman": "2026-11-17T19:01:05Z",
-      "baslik": "2nd Anniversary Celebration Trailer | Two Years of Marvel Rivals",
-      "link": "https://www.youtube.com/watch?v=dXHSPs5bblQ",
-      "kategori": "game",
-      "sebep": "Video, Marvel Rivals oyununun 2. yıl dönümü etkinliğini tanıtan bir oyun fragmanıdır; oynanış kaydı, canlı yayın, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
       "shorts": false
     }
   ]
