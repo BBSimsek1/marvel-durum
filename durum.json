@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-24T17:01:07Z",
+  "guncelleme": "2026-11-24T18:01:01Z",
   "son_tarama": {
-    "zaman": "2026-11-24T17:01:00Z",
-    "yeni_video": 3,
-    "claude_cagri": 3,
+    "zaman": "2026-11-24T18:00:56Z",
+    "yeni_video": 2,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-24",
-    "cagri": 7,
+    "cagri": 9,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,22 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-24T18:01:01Z",
+      "baslik": "Put your best plans to work and claim every prize! | Van Dyne: Idea Matrix Trailer | #MarvelRivals",
+      "link": "https://www.youtube.com/shorts/QJ6c-6szRU4",
+      "kategori": "game",
+      "sebep": "Video, Marvel Rivals oyununun Van Dyne karakteri için hazırlanmış resmi fragman/sinematik tanıtımdır, sıradan oynanış veya yama notu içeriği değildir.",
+      "shorts": true
+    },
+    {
+      "zaman": "2026-11-24T18:00:59Z",
+      "baslik": "Johnny Storm Confronts the Silver Surfer 👀",
+      "link": "https://www.youtube.com/shorts/9lsjLsQWEBE",
+      "kategori": "film",
+      "sebep": "Video, Marvel Studios'un The Fantastic Four: First Steps filminden bir sahne tanıtımı niteliğinde olup Marvel evreniyle doğrudan ilgilidir.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-24T17:01:07Z",
       "baslik": "Incursion Point | Map Reveal Trailer | #MarvelRivals",
@@ -188,22 +204,6 @@
       "kategori": "game",
       "sebep": "Video, Marvel Rivals oyununun 2. yıl dönümü etkinliğini tanıtan bir oyun fragmanıdır; oynanış kaydı, canlı yayın, yama notu tanıtımı veya kısa sosyal medya klibi değildir.",
       "shorts": false
-    },
-    {
-      "zaman": "2026-11-17T16:01:09Z",
-      "baslik": "Marvel Cosmic Invasion | The Siege of Castle Doom DLC #2 Launch Trailer",
-      "link": "https://www.youtube.com/watch?v=UOSuiilBPlk",
-      "kategori": "game",
-      "sebep": "Video, Marvel Cosmic Invasion oyununun The Siege of Castle Doom DLC'sinin lansman fragmanı olup bir Marvel oyunu tanıtım videosudur.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-16T18:01:00Z",
-      "baslik": "Ant-Man VS Yellowjacket 🚂",
-      "link": "https://www.youtube.com/shorts/xeHa0hLZbpc",
-      "kategori": "film",
-      "sebep": "Video, Marvel'ın 2015 yapımı Ant-Man filminden Scott Lang ile Darren Cross'un çatışmasını gösteren bir film sahnesi klibidir.",
-      "shorts": true
     }
   ]
 }
