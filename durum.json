@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-25T01:01:06Z",
+  "guncelleme": "2026-11-25T02:01:00Z",
   "son_tarama": {
-    "zaman": "2026-11-25T01:01:05Z",
+    "zaman": "2026-11-25T02:00:56Z",
     "yeni_video": 0,
-    "claude_cagri": 0,
+    "claude_cagri": 2,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-25",
-    "cagri": 0,
+    "cagri": 2,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
