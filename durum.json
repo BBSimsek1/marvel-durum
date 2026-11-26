@@ -1,16 +1,16 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-26T15:01:03Z",
+  "guncelleme": "2026-11-26T16:01:05Z",
   "son_tarama": {
-    "zaman": "2026-11-26T15:01:02Z",
-    "yeni_video": 0,
-    "claude_cagri": 0,
+    "zaman": "2026-11-26T16:01:01Z",
+    "yeni_video": 1,
+    "claude_cagri": 1,
     "bekleyen": 0,
     "sonuc": "ok"
   },
   "kullanim": {
     "tarih": "2026-11-26",
-    "cagri": 1,
+    "cagri": 2,
     "gunluk_limit": 100,
     "calistirma_limiti": 15
   },
@@ -45,6 +45,14 @@
     }
   ],
   "bildirimler": [
+    {
+      "zaman": "2026-11-26T16:01:05Z",
+      "baslik": "\"There's a boy. He's gonna drown.\"",
+      "link": "https://www.youtube.com/shorts/WtwlZF2e5mo",
+      "kategori": "other",
+      "sebep": "Video, Marvel Television'ın Disney+ dizisi Agatha All Along'un resmi kanaldan yayımlanan bir sahne sinematiği/tanıtım klibi; film veya oyun değil, dizi kategorisinde.",
+      "shorts": true
+    },
     {
       "zaman": "2026-11-24T19:01:01Z",
       "baslik": "A New Kind of Fun Is Opening in Times Square | Ghostworks Arcade Reveal | #MarvelRivals",
@@ -195,14 +203,6 @@
       "link": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
       "kategori": "film",
       "sebep": "Başlık, açıklama ve kanal bilgileri, Avengers: Doomsday filminin 18 Aralık'ta vizyona gireceğini duyuran bir film fragmanı olduğunu gösteriyor.",
-      "shorts": false
-    },
-    {
-      "zaman": "2026-11-18T18:01:05Z",
-      "baslik": "Avengers: Doomsday | The Return | In UK Cinemas December 16",
-      "link": "https://www.youtube.com/watch?v=nHVnS9eAyT4",
-      "kategori": "film",
-      "sebep": "Video, Marvel evreninden Avengers: Doomsday filminin resmi fragmanı/tanıtım sinematiğidir.",
       "shorts": false
     }
   ]
