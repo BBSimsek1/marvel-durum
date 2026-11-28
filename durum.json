@@ -1,8 +1,8 @@
 {
   "proje": "marvel",
-  "guncelleme": "2026-11-28T05:00:58Z",
+  "guncelleme": "2026-11-28T06:01:34Z",
   "son_tarama": {
-    "zaman": "2026-11-28T05:00:58Z",
+    "zaman": "2026-11-28T06:00:56Z",
     "yeni_video": 0,
     "claude_cagri": 0,
     "bekleyen": 0,
@@ -41,7 +41,7 @@
       "id": "UCgsbO683Z1-_FknDdKmyrMA",
       "fails": 0,
       "durum": "ok",
-      "yontem": "kanal"
+      "yontem": "api"
     }
   ],
   "bildirimler": [
